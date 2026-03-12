@@ -1,16 +1,13 @@
-## Hi there 👋
+# Xavier Fox
 
-<!--
-**XavierFan0413/XavierFan0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computing student at SUTD interested in AI, full-stack systems, and technical experiments.
 
-Here are some ideas to get you started:
+## Featured
+- **Boundary Between Wave and Particle**  
+  Interactive particle simulation showing how wave-like structure can emerge from discrete particles.  
+  Live demo: https://xavierfan0413.github.io/boundary-wave-particle-demo/web/index.html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+- AI / NLP / applied systems projects
+- Full-stack web development
+- Small technical demos and experiments
