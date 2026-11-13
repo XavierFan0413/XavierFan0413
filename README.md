@@ -23,3 +23,9 @@ A PyTorch project comparing four model configurations for detecting rare anomali
 An interactive simulation showing how wave-like patterns emerge from discrete particles.
 
 [Source code](https://github.com/XavierFan0413/boundary-wave-particle-demo) · [Live demo](https://xavierfan0413.github.io/boundary-wave-particle-demo/web/index.html)
+
+### Boot Breaker
+
+An OpenCV project for object tracking and trajectory prediction.
+
+[Offline demo and reproduction instructions](https://github.com/XavierFan0413/dota2-boot-breaker-bot/blob/main/README.md)
