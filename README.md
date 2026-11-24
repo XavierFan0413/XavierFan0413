@@ -12,6 +12,12 @@ SUTD team capstone for small and medium-sized businesses in Singapore. It combin
 
 [SUTD Capstone Showcase](https://capstoneshowcase.sutd.edu.sg/project/proj-07-asiacloud-ai4pdpa/)
 
+### Workflow Gate Lab
+
+An interactive synthetic tool-call experiment covering exact-request approval, tenant scope, stale records and idempotent retries, with a shared policy engine and runnable tests. Prepared with AI assistance.
+
+[Live experiment](https://xavierfan0413.github.io/demos/workflow-gate/) · [Design and tests](https://github.com/XavierFan0413/XavierFan0413.github.io/tree/main/demos/workflow-gate)
+
 ### FT-AED
 
 A PyTorch project comparing four model configurations for detecting rare anomalies in freeway sensor data.
